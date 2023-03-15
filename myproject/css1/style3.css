@@ -1,0 +1,46 @@
+.form1{
+	background: #4f4f4f;
+	height: 400px;
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	box-sizing: border-box;
+	text-align: center;
+	display: block;
+	border: 5px solid #000000;
+	width: 40%;
+	padding: 5px;
+	margin: 10px auto;
+	border-radius: 5px;
+
+}
+
+button {
+	
+	background: #555;
+	padding: 10px 15px;
+	color: #fff;
+	border-radius: 30px;
+	border: none;
+}
+button:hover{
+	opacity: .5;
+}
+
+h1 {
+	text-align: center;
+	color: #ffffff;
+}
+
+a {
+	float: right;
+	background: #ffffff;
+	padding: 10px 15px;
+	color: #fff;
+	border-radius: 5px;
+	margin-right: 10px;
+	border: none;
+	text-decoration: none;
+}
+a:hover{
+	opacity: .10;
+}
